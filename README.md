@@ -322,14 +322,6 @@ faiss-cpu        openai           python-dotenv
 pydantic-settings crewai          gitpython
 slowapi          mcp              anthropic
 streamlit        requests
-```
-
----
-
-## 🧑‍💻 Built By
-
-**Harshit Gangwar** — [github.com/harshitgangwar](https://github.com/harshitgangwar)
-
 ---
 
 ## 📄 License
@@ -339,7 +331,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ---
 
 <div align="center">
-
-*If this project helped you, drop a ⭐ — it means a lot!*
 
 </div>
